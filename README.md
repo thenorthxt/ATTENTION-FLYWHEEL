@@ -2,6 +2,7 @@
 Attention Flywheel. Where attention drives buybacks and burn.
 
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/4afbf811-bd5c-47b0-a034-a8902b263a39" />
+
 CA :
 
 # Attention Flywheel
